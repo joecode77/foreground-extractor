@@ -2,13 +2,13 @@
 ---
 ## Input Image
 
-![[Screenshots/original_image.png]]
+![Input Image](Screenshots/original_image.png)
 
 ## Output Images
 
-![[Screenshots/intermediate_image.png]]
+![Output Image](Screenshots/intermediate_image.png)
 
-![[Screenshots/final_Image.png]]
+![Output Image](Screenshots/final_Image.png)
 
 
 ## Description
