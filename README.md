@@ -18,7 +18,7 @@ This program extracts the foreground from an image and then places it in another
 - **Background Image**: The background image on which you want to paste the foreground.
 - **Rectangle**: A rectangle (coordinates) used to specify which area of the image the foreground you are interested in can be found. This rectangular coordinates can be obtained through various means but one of the ways to obtain it is to open the image in matplotlib and take note of the coordinates before inputing them into the program.
 
->**Note:** The the first two elements of the rectangle coordinates are the top left x and y axis and the last two arguments are the bottom right x and y axis of the rectangle.
+>**Note:** The the first two elements of the rectangle coordinates are the top left x and y axis and the last two elements are the bottom right x and y axis of the rectangle.
 
 ## Running the code
 ---
